@@ -27,3 +27,4 @@ Desde aquí no se pueden abrir Reddit, Trustpilot, Capterra, OCU, la App Store n
 
 ## Mercados que dejar de vigilar
 - Facturación Verifactu para autónomos: está saturado.
+- Registro horario en hostelería y SES.Hospedajes: saturados (2026-11-18).
